@@ -1,0 +1,1 @@
+This deletes the nested repository's Git metadata and history, so don't run it if you need that history.
